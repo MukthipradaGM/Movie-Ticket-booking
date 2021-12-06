@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619013123 source:c:\users\mukthi\desktop\movieticket\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
